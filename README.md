@@ -1,0 +1,3 @@
+# DB-To-XML
+
+This project is in Node js language. Use case of this project, I need to take a dump of a full database having approx 10 million data in XML format (format is already given ). As data count is high so I use node js due to asynchronous processing. Steps of the project are as described below:- Create MySQL connection . Create MongoCollection .(This is optional . I did it as I need to track when my last dump is created ) 3.fetch data from MySQL (I have created a view to do this and store my formatted data in view) Process data one by one , convert it into JSON packet .Json packet is converted into XML and then XML has been written into a file. After writing all data, I store it on the AWS bucket by uploading it in multipart.

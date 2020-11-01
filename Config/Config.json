@@ -1,0 +1,13 @@
+{
+  "mongoDB": "",
+  "jobDetailsCollection": "",
+  "mongoUrl": "mongodb://localhost:27017",
+  "partSize": "1024 * 1024 * 5",
+  "AWS_ACCESS_KEY": "",
+  "AWS_REGION": "",
+  "mysql_host": "localhost",
+  "mysql_user": "",
+  "mysql_password": "",
+  "mysql_db": ""
+}
+

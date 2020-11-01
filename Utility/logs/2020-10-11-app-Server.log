@@ -1,0 +1,138 @@
+2020-10-11;16:27:52.306;INFO;100% done
+2020-10-11;16:29:12.911;INFO;started
+2020-10-11;16:29:12.912;INFO;Completed part
+2020-10-11;16:29:12.913;INFO;mData
+2020-10-11;16:29:12.914;INFO;Uploading part: #
+2020-10-11;16:29:14.643;INFO;100% done
+2020-10-11;16:30:33.454;INFO;started
+2020-10-11;16:30:33.456;INFO;Completed part
+2020-10-11;16:30:33.456;INFO;mData
+2020-10-11;16:30:33.456;INFO;Uploading part: #
+2020-10-11;16:30:35.032;INFO;100% done
+2020-10-11;16:31:47.987;INFO;started
+2020-10-11;16:31:47.989;INFO;Completed part
+2020-10-11;16:31:47.990;INFO;mData
+2020-10-11;16:31:47.992;INFO;Uploading part: #
+2020-10-11;16:31:49.669;INFO;100% done
+2020-10-11;16:33:01.977;INFO;started
+2020-10-11;16:33:01.978;INFO;Completed part
+2020-10-11;16:33:01.979;INFO;mData
+2020-10-11;16:33:01.980;INFO;Uploading part: #
+2020-10-11;16:33:03.668;INFO;100% done
+2020-10-11;16:34:35.424;INFO;started
+2020-10-11;16:34:35.426;INFO;Completed part
+2020-10-11;16:34:35.427;INFO;mData
+2020-10-11;16:34:35.429;INFO;Uploading part: #
+2020-10-11;16:34:38.995;INFO;100% done
+2020-10-11;16:36:45.429;INFO;started
+2020-10-11;16:36:45.430;INFO;Completed part
+2020-10-11;16:36:45.432;INFO;mData
+2020-10-11;16:36:45.433;INFO;Uploading part: #
+2020-10-11;16:36:47.687;INFO;100% done
+2020-10-11;16:39:36.121;INFO;started
+2020-10-11;16:39:36.123;INFO;Completed part
+2020-10-11;16:39:36.124;INFO;mData
+2020-10-11;16:39:36.125;INFO;Uploading part: #
+2020-10-11;16:39:38.587;INFO;100% done
+2020-10-11;16:43:04.098;INFO;started
+2020-10-11;16:43:04.100;INFO;Completed part
+2020-10-11;16:43:04.101;INFO;mData
+2020-10-11;16:43:04.102;INFO;Uploading part: #
+2020-10-11;16:43:05.823;INFO;100% done
+2020-10-11;16:46:01.547;INFO;started
+2020-10-11;16:46:01.548;INFO;Completed part
+2020-10-11;16:46:01.549;INFO;mData
+2020-10-11;16:46:01.551;INFO;Uploading part: #
+2020-10-11;16:46:05.501;INFO;100% done
+2020-10-11;16:49:45.083;INFO;started
+2020-10-11;16:49:45.085;INFO;Completed part
+2020-10-11;16:49:45.086;INFO;mData
+2020-10-11;16:49:45.088;INFO;Uploading part: #
+2020-10-11;16:49:46.956;INFO;100% done
+2020-10-11;16:52:20.481;INFO;started
+2020-10-11;16:52:20.482;INFO;Completed part
+2020-10-11;16:52:20.482;INFO;mData
+2020-10-11;16:52:20.483;INFO;Uploading part: #
+2020-10-11;16:52:22.427;INFO;100% done
+2020-10-11;16:54:57.613;INFO;started
+2020-10-11;16:54:57.614;INFO;Completed part
+2020-10-11;16:54:57.615;INFO;mData
+2020-10-11;16:54:57.616;INFO;Uploading part: #
+2020-10-11;16:54:59.868;INFO;100% done
+2020-10-11;16:57:57.280;INFO;started
+2020-10-11;16:57:57.281;INFO;Completed part
+2020-10-11;16:57:57.282;INFO;mData
+2020-10-11;16:57:57.283;INFO;Uploading part: #
+2020-10-11;16:58:00.086;INFO;100% done
+2020-10-11;18:42:19.460;INFO;100% done
+2020-10-11;18:46:50.213;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.227;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.231;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.233;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.236;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.240;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.244;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.245;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.247;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.248;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.249;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.250;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.252;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.253;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.254;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.254;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.255;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.258;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.261;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.262;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.262;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.263;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.263;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.265;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.268;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.271;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.273;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.275;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.277;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.279;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.279;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.279;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.280;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.280;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.280;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.280;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.281;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.281;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.282;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.282;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.283;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.283;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.284;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.285;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.288;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.293;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.295;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;18:46:50.296;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.298;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.298;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.298;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:46:50.299;INFO;Value Updated As Failed in Mongo
+2020-10-11;18:49:35.426;INFO;started
+2020-10-11;18:49:35.427;INFO;Completed part
+2020-10-11;18:49:35.429;INFO;mData
+2020-10-11;18:49:35.429;INFO;Uploading part: #
+2020-10-11;18:49:37.263;INFO;100% done
+2020-10-11;18:55:22.199;INFO;started
+2020-10-11;18:55:22.200;INFO;Completed part
+2020-10-11;18:55:22.200;INFO;mData
+2020-10-11;18:55:22.201;INFO;Uploading part: #
+2020-10-11;18:55:23.930;INFO;100% done
+2020-10-11;19:00:37.486;INFO;started
+2020-10-11;19:00:37.487;INFO;Completed part
+2020-10-11;19:00:37.488;INFO;mData
+2020-10-11;19:00:37.489;INFO;Completing upload...
+2020-10-11;19:00:39.770;INFO;Completed upload in
+2020-10-11;19:00:39.770;INFO;Final upload data:
+2020-10-11;19:00:39.776;INFO;Value Updated As Success in Mongo
+2020-10-11;19:19:00.002;INFO;Cannot enqueue Handshake after invoking quit.
+2020-10-11;19:19:00.006;INFO;Value Updated As Failed in Mongo

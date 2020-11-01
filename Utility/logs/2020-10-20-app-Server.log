@@ -1,0 +1,50 @@
+2020-10-20;18:48:00.037;INFO;Database connection successful!!
+2020-10-20;18:48:00.063;INFO; Mongo Database connected!
+2020-10-20;18:48:00.071;INFO;Value inserted in Mongo
+2020-10-20;18:48:00.072;INFO;Process started at: Tue Oct 20 2020 18:48:00 GMT+0530
+2020-10-20;18:50:27.976;INFO;Process completed at: Tue Oct 20 2020 18:50:27 GMT+0530
+2020-10-20;18:50:27.977;INFO;Total duration - 147s
+2020-10-20;18:50:27.982;INFO;wrote all data to file
+2020-10-20;18:50:27.982;INFO;Process completed at: Tue Oct 20 2020 18:50:27 GMT+0530
+2020-10-20;18:50:27.983;INFO;Total duration - 147910ms
+2020-10-20;18:50:27.983;INFO;Upload file to AWS bucket
+2020-10-20;18:50:31.324;INFO;Uploading part: #
+2020-10-20;18:50:32.859;INFO;100% done
+2020-10-20;18:55:43.553;INFO;started
+2020-10-20;18:55:43.554;INFO;Completed part
+2020-10-20;18:55:43.555;INFO;mData
+2020-10-20;18:55:43.556;INFO;Uploading part: #
+2020-10-20;18:55:45.044;INFO;100% done
+2020-10-20;19:01:49.865;INFO;started
+2020-10-20;19:01:49.866;INFO;Completed part
+2020-10-20;19:01:49.867;INFO;mData
+2020-10-20;19:01:49.868;INFO;Uploading part: #
+2020-10-20;19:01:52.405;INFO;100% done
+2020-10-20;19:07:41.807;INFO;started
+2020-10-20;19:07:41.808;INFO;Completed part
+2020-10-20;19:07:41.809;INFO;mData
+2020-10-20;19:07:41.810;INFO;Uploading part: #
+2020-10-20;19:07:43.257;INFO;100% done
+2020-10-20;19:13:17.755;INFO;started
+2020-10-20;19:13:17.755;INFO;Completed part
+2020-10-20;19:13:17.756;INFO;mData
+2020-10-20;19:13:17.756;INFO;Uploading part: #
+2020-10-20;19:13:19.219;INFO;100% done
+2020-10-20;19:19:14.725;INFO;100% done
+2020-10-20;19:19:14.914;INFO;100% done
+2020-10-20;19:56:46.351;INFO;100% done
+2020-10-20;19:56:48.416;INFO;started
+2020-10-20;19:56:48.416;INFO;Retrying upload of part: #
+2020-10-20;19:56:48.505;ERROR;uncaughtException: Cannot read property 'ETag' of null
+TypeError: Cannot read property 'ETag' of null
+    at Response.<anonymous> (/home/ttn/Documents/NodeApplications/json-to-xml/Aws/S3Multipart.js:101:33)
+    at Request.<anonymous> (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/request.js:369:18)
+    at Request.callListeners (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/sequential_executor.js:106:20)
+    at Request.emit (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/sequential_executor.js:78:10)
+    at Request.emit (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/request.js:688:14)
+    at Request.transition (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/request.js:22:10)
+    at AcceptorStateMachine.runTo (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/state_machine.js:14:12)
+    at /home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/state_machine.js:26:10
+    at Request.<anonymous> (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/request.js:38:9)
+    at Request.<anonymous> (/home/ttn/Documents/NodeApplications/json-to-xml/node_modules/aws-sdk/lib/request.js:690:12)
+2020-10-20;19:56:48.506;ERROR;Cannot read property 'ETag' of null

@@ -1,0 +1,61 @@
+2020-10-10;16:05:00.060;INFO;Database connection successful!!
+2020-10-10;16:05:00.090;INFO;Value inserted in Mongo
+2020-10-10;16:05:00.091;INFO;Process started at: Sat Oct 10 2020 16:05:00 GMT+0530
+2020-10-10;16:07:00.012;INFO;Database connection successful!!
+2020-10-10;16:07:00.033;INFO; Mongo Database connected!
+2020-10-10;16:07:00.040;INFO;Value inserted in Mongo
+2020-10-10;16:07:00.042;INFO;Process started at: Sat Oct 10 2020 16:07:00 GMT+0530
+2020-10-10;16:09:00.043;INFO;Database connection successful!!
+2020-10-10;16:09:00.068;INFO; Mongo Database connected!
+2020-10-10;16:09:00.077;INFO;Value inserted in Mongo
+2020-10-10;16:09:00.079;INFO;Process started at: Sat Oct 10 2020 16:09:00 GMT+0530
+2020-10-10;16:11:00.047;INFO;Database connection successful!!
+2020-10-10;16:11:00.071;INFO; Mongo Database connected!
+2020-10-10;16:11:00.079;INFO;Value inserted in Mongo
+2020-10-10;16:11:00.081;INFO;Process started at: Sat Oct 10 2020 16:11:00 GMT+0530
+2020-10-10;16:13:09.730;INFO;Process completed at: Sat Oct 10 2020 16:13:09 GMT+0530
+2020-10-10;16:13:09.731;INFO;Total duration - 129s
+2020-10-10;16:13:09.736;INFO;wrote all data to file
+2020-10-10;16:13:09.736;INFO;Process completed at: Sat Oct 10 2020 16:13:09 GMT+0530
+2020-10-10;16:13:09.736;INFO;Total duration - 129656ms
+2020-10-10;16:13:09.736;INFO;Upload file to AWS bucket
+2020-10-10;16:13:17.703;INFO;Uploading part : #
+2020-10-10;16:13:20.926;INFO;100% done
+2020-10-10;16:19:00.040;INFO;Database connection successful!!
+2020-10-10;16:19:00.061;INFO; Mongo Database connected!
+2020-10-10;16:19:00.069;INFO;Value inserted in Mongo
+2020-10-10;16:19:00.070;INFO;Process started at: Sat Oct 10 2020 16:19:00 GMT+0530
+2020-10-10;16:21:16.933;INFO;Process completed at: Sat Oct 10 2020 16:21:16 GMT+0530
+2020-10-10;16:21:16.933;INFO;Total duration - 136s
+2020-10-10;16:21:16.939;INFO;wrote all data to file
+2020-10-10;16:21:16.939;INFO;Process completed at: Sat Oct 10 2020 16:21:16 GMT+0530
+2020-10-10;16:21:16.939;INFO;Total duration - 136869ms
+2020-10-10;16:21:16.939;INFO;Upload file to AWS bucket
+2020-10-10;16:21:34.839;INFO;Uploading part: #
+2020-10-10;16:21:37.449;INFO;100% done
+2020-10-10;16:23:25.845;INFO;started
+2020-10-10;16:23:25.848;INFO;Completed part
+2020-10-10;16:23:25.849;INFO;mData
+2020-10-10;16:23:25.851;INFO;Uploading part: #
+2020-10-10;16:23:27.874;INFO;100% done
+2020-10-10;16:26:52.024;INFO;started
+2020-10-10;16:26:52.026;INFO;Completed part
+2020-10-10;16:26:52.027;INFO;mData
+2020-10-10;16:26:52.028;INFO;Uploading part: #
+2020-10-10;16:26:54.710;INFO;100% done
+2020-10-10;20:52:35.768;INFO;100% done
+2020-10-10;20:55:48.811;INFO;started
+2020-10-10;20:55:48.813;INFO;Completed part
+2020-10-10;20:55:48.814;INFO;mData
+2020-10-10;20:55:48.816;INFO;Uploading part: #
+2020-10-10;20:55:52.033;INFO;100% done
+2020-10-10;20:59:08.354;INFO;started
+2020-10-10;20:59:08.355;INFO;Completed part
+2020-10-10;20:59:08.356;INFO;mData
+2020-10-10;20:59:08.357;INFO;Uploading part: #
+2020-10-10;20:59:10.194;INFO;100% done
+2020-10-10;21:03:09.370;INFO;started
+2020-10-10;21:03:09.371;INFO;Completed part
+2020-10-10;21:03:09.372;INFO;mData
+2020-10-10;21:03:09.373;INFO;Uploading part: #
+2020-10-10;21:03:11.420;INFO;100% done

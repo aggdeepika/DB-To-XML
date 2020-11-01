@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 10
+    },
+    "auditLog": "/home/ttn/Documents/NodeApplications/json-to-xml/Utility/logs/.504e18b647d4b7bd16436be3cc53d2a1cb25ce0d-audit.json",
+    "files": [
+        {
+            "date": 1602326054209,
+            "name": "/home/ttn/Documents/NodeApplications/json-to-xml/Utility/logs/2020-10-10-app-Server.log",
+            "hash": "a45263eb23743e1c1514ac973813ca6f"
+        },
+        {
+            "date": 1602413872308,
+            "name": "/home/ttn/Documents/NodeApplications/json-to-xml/Utility/logs/2020-10-11-app-Server.log",
+            "hash": "eab7d08f6a2137cdda904a73ce94b81b"
+        },
+        {
+            "date": 1602478684484,
+            "name": "/home/ttn/Documents/NodeApplications/json-to-xml/Utility/logs/2020-10-12-app-Server.log",
+            "hash": "a2b1e575ea253e8434cb8f2c0e210390"
+        },
+        {
+            "date": 1603199849545,
+            "name": "/home/ttn/Documents/NodeApplications/json-to-xml/Utility/logs/2020-10-20-app-Server.log",
+            "hash": "ca118700ae5ca37a92fe4022b7ab97c7"
+        },
+        {
+            "date": 1603719238240,
+            "name": "/home/ttn/Documents/NodeApplications/json-to-xml/Utility/logs/2020-10-26-app-Server.log",
+            "hash": "c7f3a3909e3c8ae8c437e5e5b35efa22"
+        }
+    ]
+}
